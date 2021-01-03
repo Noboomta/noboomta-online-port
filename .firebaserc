@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "puvana-dev",
+    "staging": "puvana-dev"
+  }
+}
