@@ -171,7 +171,7 @@ p {
 
 .navbar-inverse {
 	background: #3e64ff;
-border-color: #5D5B66;
+    border-color: #5D5B66;
 }
 
 .navbar-inverse .navbar-nav > .active > a {
